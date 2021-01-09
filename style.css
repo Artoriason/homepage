@@ -1,0 +1,42 @@
+body {
+    background: lightgray;
+}
+
+section {
+    background: #ffffff;
+}
+
+
+.powielane{
+    color: rgb(39, 82, 37);
+}
+p {
+    color: #3f363a;
+
+}
+
+h2 {
+    color: darkkhaki;
+    
+}
+
+.hotpink-header {
+    color: hotpink;
+}
+
+#top {
+background:rgba(236, 77, 90, 0.986) ;
+}
+
+a {
+    color: #c4821f
+}
+
+nav a {
+    color: #910e0e
+}
+
+.violet-p {
+    color: #0ba3a8;
+}
+
